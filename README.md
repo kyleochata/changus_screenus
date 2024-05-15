@@ -1,6 +1,6 @@
 # Changus Screenus
 
-[![Golang Gopher](https://imgs.search.brave.com/fi8A_Fpq9sl0pZxvR8chttps://imgs.search.brave.com/CCtA_G1LntZZVPqLzRjd3xUv5RQjBziYdwdUPHLkMLA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3F1YXJlc3Bh/Y2UtY2RuLmNvbS9j/b250ZW50L3YxLzVl/MTBiZGMyMGVmYjhm/MGQxNjlmODVmOS8x/NTg3MjE3MjIyNTE3/LVZXTzU0U0tBMjRF/NkQxSTBGRkNILzE5/OC0xOTgwNTgxX2dv/bGFuZy1nb3BoZXIt/cG5nLnBuZwQ109fKUgeNNuzr4ZGGyTkG00/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9nb2Rv/Yy5vcmcvZ2l0aHVi/LmNvbS9kaXNpbnRl/Z3JhdGlvbi9pbWFn/aW5nP3N0YXR1cy5z/dmchttps://godoc.org/github.com/disintegration/imaging?status.svg)](https://golang.org/)
+[![Golang Gopher](https://godoc.org/github.com/disintegration/imaging?status.svg)](https://golang.org/)
 
 Changus Screenus is a Go program that changes your screensaver to a random picture from a folder found in this project name `images`. It is currently only supported by Windows. Linux and MacOS are among future updates.
 
